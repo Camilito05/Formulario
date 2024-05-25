@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.formulario{
+    border-radius: 30px;
+    background-color: rgba(0, 255, 255,0.4);
+    margin: auto;
+    padding: 25px;
+    width: 300px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+h1{
+
+    height: 40px;
+}
+
+.label{
+    margin: 40px;
+}
+ 
+input{
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
